@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VishnuBijulalVB
-- 👀 I’m interested in Python Full_Stack_Development
-- 🌱 I’m currently learning HTML CSS JS
+- 👀 I’m interested in Python, Full_Stack_Development, Cyber_Security
+- 🌱 I’m currently learning HTML CSS JS Python
 - 💞️ I’m looking to collaborate on FOSS
 - 📫 Reach me over email
 
